@@ -1,10 +1,10 @@
 # flambo-test
 
-A Clojure library designed to ... well, that part is up to you.
+Minimal setup needed to run a Flambo REPL.
 
 ## Usage
 
-FIXME
+    lein repl
 
 ## License
 
